@@ -1,7 +1,7 @@
 
 ## WARNING
 
-I have not idea if using this or any other autohotkey script while playing online is a bannable offense or not. I would only recommend playing private Campaign mode with it, as that is the only use-case which I have used it for.
+I have no idea if using this or any other autohotkey script while playing online is a bannable offense or not. I would only recommend playing private Campaign mode with it, as that is the only use-case which I have used it for.
 
 ## Description
 
@@ -9,7 +9,7 @@ If you are on Windows 7 and have certain hardware. Or perhaps only one of those 
 
 In my case, I get these errors on a PC running Windows 7 Pro x64 w/ SP1 and all updates through Windows 7 EOL. It has an [AMD 9590](https://www.newegg.com/amd-fx-series-fx-9590/p/N82E16819113351) CPU, 32 GB RAM, and a NVIDIA Geforce [GTX 970](https://www.amazon.com/gp/product/B00NN0GEXQ?psc=1) graphics card with 4GB GDDR5 VRAM. A little dated but works great for most things. But presumably due to some limitation in the Windows 7 DX12 framework or Gears itself, it gives me a lot of crap about using this graphics card on Windows 7 (despite the fact that it is the exact model listed as the "recommended" card for Windows 10 on the [Steam store page](https://store.steampowered.com/app/1097840/Gears_5/)).
 
-The error MsgBoxes pop-up every time I launch the game and on the rare occasions that I actually get a crash to desktop, I sometimes get them again. But the thing is, **I am not actually blocking from playing** so they are purely just a nuisance albeit a constant nuisance. I was actually able to play on High quality without any issues during game-play but eventually went to Low quality bc of a couple of spots that would CTD during *cutscenes*. Specifically, the cutscenes at the end of Act 1, Chapter 1 and Act 2, Chapter 5 were the worst in this regard.
+The error MsgBoxes pop-up every time I launch the game and on the rare occasions that I actually get a crash to desktop, I sometimes get them again. But the thing is, **I am not actually blocked from playing** so they are purely just a nuisance albeit a constant nuisance. I was actually able to play on High quality without any issues during game-play but eventually went to Low quality bc of a couple of spots that would CTD during *cutscenes*. Specifically, the cutscenes at the end of Act 1, Chapter 1 and Act 2, Chapter 5 were the worst in this regard.
 
 Anyway, since I was sick of clicking OK to dismiss 3 seperate pop-ups each and every time I launched the game, I wrote an [autohotkey](https://www.autohotkey.com/) script to do it for me. If you aren't familiar with autohotkey, I will mention that while open-source, their versioning system can be a tad confusing for new-comers. My script will only work with the v1.1 series (which is listed as the "Current Version" on their site as of time of writing, Oct 2020).
 
@@ -17,7 +17,7 @@ Anyway, since I was sick of clicking OK to dismiss 3 seperate pop-ups each and e
 
 In case you missed it the first time:
 
-I have not idea if using this or any other autohotkey script while playing online is a bannable offense or not. I would only recommend playing private Campaign mode with it, as that is the only use-case which I have used it for.
+I have no idea if using this or any other autohotkey script while playing online is a bannable offense or not. I would only recommend playing private Campaign mode with it, as that is the only use-case which I have used it for.
 
 ## DISCLAIMER
 
